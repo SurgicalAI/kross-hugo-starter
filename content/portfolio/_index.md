@@ -2,7 +2,6 @@
 title: My Story My Journey
 date: 2021-02-27T22:00:00+00:00
 description: How it all begins...
-draft: true
 
 ---
 > ### ![](/images/club-med-valmorel-arcs-panorama.jpeg)Hello , I'm Daniela Gàl
