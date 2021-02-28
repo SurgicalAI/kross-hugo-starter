@@ -6,4 +6,4 @@ image = "/club-med-valmorel-arcs-panorama.jpeg"
 title = "About"
 
 +++
-### Hello , I'm Daniela Gàl
+### Hello, I'm Daniela Gàl
